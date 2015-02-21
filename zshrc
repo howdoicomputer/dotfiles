@@ -1,4 +1,5 @@
 export ZSH=$HOME/.oh-my-zsh
+source ~/.antigen/antigen.zsh
 
 ZSH_THEME="bira"
 plugins=(git rails ruby zshmarks)
